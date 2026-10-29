@@ -10,7 +10,9 @@ Use this when you have written or updated docs first and want the implementation
    - Changes to `docs/system.md` → check if external interfaces or system boundaries need to change
    - Changes to `docs/containers/[name].md` → check if the container's interfaces, technology, or responsibilities need updating in code
    - Changes to `docs/components/[name].md` → check if the component's behavior, interfaces, or structure need implementing or updating
-   - Changes to `docs/reference/[name].md` → check if config schemas, protocols, or API shapes need updating
+   - Changes to `docs/specs/[name].md` → implement the specified behavior; a spec may affect several components
+   - Changes to `docs/ops/[name].md` → bring build, release, deploy, install, or runtime scripts and configuration in line
+   - Changes to `docs/external/[name].md` → bring integration code in line with the documented calls, patterns, and limits
 
 3. Read both the updated doc and the current source files before making any code changes.
 

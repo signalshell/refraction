@@ -2,7 +2,7 @@
 
 # Refraction
 
-Claude Code skills for the [Refraction documentation standard](https://signalshell.com/refraction).
+Claude Code skills for the [Refraction documentation standard](https://signalshell.com/refraction/v1.2).
 
 ## Skills
 
@@ -29,4 +29,4 @@ C4 is the best architecture documentation standard for humans, but it is not goo
 
 Refraction takes the C4 structure (System Context, Container, Component) and replaces every diagram with prose, lists, and tables. Agents can read the structure selectively. Humans can read at whatever altitude they need. Either side can write — the format works in both directions.
 
-Full spec: [signalshell.com/refraction](https://signalshell.com/refraction)
+Full spec: [signalshell.com/refraction/v1.2](https://signalshell.com/refraction/v1.2)
